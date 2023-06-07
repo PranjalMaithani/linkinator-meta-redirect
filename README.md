@@ -1,0 +1,6 @@
+- `npm install`
+- `npm start`
+- go to localhost:8080/
+- workingRedirect will redirect to a working page
+- brokenRedirect will redirect to a non existent page (404)
+- `npm run linkinator` to run linkinator
